@@ -1,7 +1,7 @@
 Instagram Example
-===========
 
-Discussion 1:
+Assigment 0
+MARBELY VILLANUEVA- A11051343
+EVONEE URIBE-A10192235
 
-Instagram example for COGS 121
-Every commit will provide a step by step introduction to creating a web application overview.
+COGS121 SP15
